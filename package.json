@@ -18,10 +18,10 @@
     "bitcoinjs-lib": "6.1.7",
     "dotenv": "16.4.7",
     "node-cron": "3.0.3",
-    "setimmediate": "^1.0.5",
+    "setimmediate": "1.0.5",
     "ts-node": "10.9.2",
     "typescript": "5.7.3",
-    "util": "^0.12.5",
-    "winston": "^3.8.2"
+    "util": "0.12.5",
+    "winston": "3.8.2"
   }
 }
